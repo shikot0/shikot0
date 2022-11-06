@@ -11,3 +11,6 @@ I have spent the last couple of months learning React and a little bit of and Po
 
 ## I'm open to any projects that you think I'll be a good fit for!
 - You can contact me through my email: 1sh1m1da1@gmail.com
+
+## My GitHub stats:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shikot0)](https://github.com/anuraghazra/github-readme-stats)
