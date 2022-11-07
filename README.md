@@ -1,3 +1,4 @@
+![MasterHead](https://media1.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif?cid=790b761193ffd4c44c2a1a620b4ef6d5b7d536df9674b126&rid=giphy.gif&ct=g)
 # Hi there, 
 ## My name is Sheikh Tijan Ceesay and I'm a Front-end Web Developer!
 My passions are responsive design and good UI/UX!
@@ -13,4 +14,4 @@ I have spent the last couple of months learning React and a little bit of and Po
 - You can contact me through my email: 1sh1m1da1@gmail.com
 
 ## My GitHub stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shikot0)](https://github.com/anuraghazra/github-readme-stats)
+![shikot0's GitHub stats](https://github-readme-stats.vercel.app/api?username=shikot0&show_icons=true])
