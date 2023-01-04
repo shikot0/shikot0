@@ -1,6 +1,6 @@
 ![MasterHead](https://media1.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif?cid=790b761193ffd4c44c2a1a620b4ef6d5b7d536df9674b126&rid=giphy.gif&ct=g)
 # Hi there, 
-## My name is Sheikh Tijan Ceesay and I'm a Front-end Web Developer!
+## My name is Sheikh Tijan Ceesay and I'm a Full-stack Web Developer!
 My passions are responsive design and good UI/UX!
 Most of my repositories are challenges from ![Frontend Mentor](https://www.frontendmentor.io/)
 
