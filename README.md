@@ -2,11 +2,12 @@
 # Hi there, 
 ## My name is Sheikh Tijan Ceesay and I'm a Full-stack Web Developer!
 My passions are responsive design and good UI/UX!
-Most of my repositories are challenges from ![Frontend Mentor](https://www.frontendmentor.io/)
+Most of my repositories are challenges from [Frontend Mentor](https://www.frontendmentor.io/)
 
 ## What I'm currently working on:
-I've been working on a Quizz app for last two weeks that will allow users to add, edit and delete their own questions. It uses a React Front-end coupled with a ![PocketBase](https://github.com/pocketbase/pocketbase) backend.
-  
+For the last month I have been working on two Full-Stack (MERN) projects:
+- [Issue](https://issue-delta.vercel.app/home)
+- [RECA](https://reca.vercel.app)  
 ## What I'm currently learning: 
 I have spent the last couple of months learning React and a little bit of and PocketBase for the Back-end, also Solidity for Web3.
 
