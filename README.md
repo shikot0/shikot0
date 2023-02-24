@@ -9,7 +9,7 @@ For the last month I have been working on two Full-Stack (MERN) projects:
 - [Issue](https://issue-delta.vercel.app/home)
 - [RECA](https://reca.vercel.app)  
 ## What I'm currently learning: 
-I have spent the last couple of months learning React and a little bit of and PocketBase for the Back-end, also Solidity for Web3.
+I have spent the last couple of months learning React and Express with Nodejs for the backend.
 
 ## I'm open to any projects that you think I'll be a good fit for!
 - You can contact me through my email: 1sh1m1da1@gmail.com
