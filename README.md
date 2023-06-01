@@ -2,14 +2,9 @@
 # Hi there, 
 ## My name is Sheikh Tijan Ceesay and I'm a Full-stack Web Developer!
 My passions are responsive design and good UI/UX!
-Most of my repositories are challenges from [Frontend Mentor](https://www.frontendmentor.io/)
 
-## What I'm currently working on:
-For the last month I have been working on two Full-Stack (MERN) projects:
-- [Issue](https://issue-delta.vercel.app/home)
-- [RECA](https://reca.vercel.app)  
 ## What I'm currently learning: 
-I have spent the last couple of months learning React and Express with Nodejs for the backend.
+Nextjs 13
 
 ## I'm open to any projects that you think I'll be a good fit for!
 - You can contact me through my email: 1sh1m1da1@gmail.com
