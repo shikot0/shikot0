@@ -8,6 +8,3 @@ Nextjs 13
 
 ## I'm open to any projects that you think I'll be a good fit for!
 - You can contact me through my email: 1sh1m1da1@gmail.com
-
-## My GitHub stats:
-![shikot0's GitHub stats](https://github-readme-stats.vercel.app/api?username=shikot0&show_icons=true])
