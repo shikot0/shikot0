@@ -1,7 +1,7 @@
 ![MasterHead](https://media1.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif?cid=790b761193ffd4c44c2a1a620b4ef6d5b7d536df9674b126&rid=giphy.gif&ct=g)
 # Hi there, 
 ## My name is Sheikh Tijan Ceesay and I'm a Full-stack Web Developer!
-My personal website: ![sheikh-tijan-ceesay.vercel.app](https://sheikh-tijan-ceesay.vercel.app)
+My personal website: https://sheikh-tijan-ceesay.vercel.app
 
 ## What I'm currently learning: 
 Nextjs 13
