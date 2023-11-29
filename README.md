@@ -4,7 +4,7 @@
 My personal website: https://sheikh-tijan-ceesay.vercel.app
 
 ## What I'm currently learning: 
-Nextjs 13
+Nextjs 14, PostgreSQL, Machine Learning
 
 ## I'm open to any projects that you think I'll be a good fit for!
 - You can contact me through my email: 1sh1m1da1@gmail.com
